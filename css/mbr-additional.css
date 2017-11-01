@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-1 H1 {
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-1 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#header4-1 P {
+  text-align: center;
+}
+#contacts1-2 P {
+  color: #ffffff;
+}
+#contacts1-2 STRONG {
+  text-align: center;
+}
+#social-buttons2-3 .mbr-header__text {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #252525;
+  font-size: 18px;
+}
+#footer1-4 P {
+  text-align: center;
+  color: #efefef;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}

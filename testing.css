@@ -1,0 +1,24 @@
+
+p.error {
+		background: #ffd;
+		color: red;
+		height:60px;
+		}
+		p.error:before {
+			
+		content: "Error: ";
+		}
+		p.success {
+			background: #ffd; 
+			color: green;
+			height:80px;
+		}
+		p.success:before {
+			
+		content: "Success: ";
+		}
+		p.error, p.success {
+			font-weight: bold;
+			}
+
+
